@@ -13,4 +13,4 @@ The system performed well technically and on a daily basis provided randoms that
 
 The style of promotional email marketing descibed above has gone the way of the dinosaur. Basically all email servers today are very good at sniffing and sorting out any spam-like messages. This code is no longer maintained and probably does not work in the current state. To try to use this to send in the manner which it was originally developed would be a total waste of time. Email marketing simply isn't what it used to be, in the good ol' days.
 
-This project was added for posterity and to show an interesting project in the early days of promtional email marketing.
+This project was added for posterity and to show an interesting project in the early days of promotional email marketing.
