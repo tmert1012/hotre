@@ -3,7 +3,7 @@ hotmail random engine
 
 Many moons ago, in 2007, in the dusty wild west of promotional email marketing, the hotmail random engine was born.
 
-At the time email filtering or spam filtering, was based mostly on where an email originated, ip reputation and technical correctness of a sending domain name and/or mail server. Hotmail was one of the first, that we noticed, were successfully blocking/bouncing/spam foldering based on the email content. It seemed that the content filtering could learn or at least had triggers. This meant that some messages of the same campaign (email send based on list) could at first land in the inbox, then some a few minuntes later in the spam folder, then finally the rest as a soft or hard bounce.
+At the time email filtering or spam filtering, was based mostly on where an email originated, ip reputation and technical correctness of a sending domain name and/or mail server. Hotmail was one of the first, that we noticed, were successfully blocking/bouncing/spam foldering based on the email content. It seemed that the content filtering could learn or at least had triggers. This meant that some messages of the same campaign (email send based on list) could at first land in the inbox, then some a few minutes later in the spam folder, then finally the rest as a soft or hard bounce.
 
 We noticed from email seeding that our competitors were creating "randoms" which were the latest way to try to improve inbox success with content filters. Randoms were for the most part broken HTML or junk content that was included in the message in such a way to remain hidden or out of view yet make the message look less promotional and more personal or unique.
 
