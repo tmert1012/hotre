@@ -1,5 +1,5 @@
 # HotRE
-hotmail random engine
+## Hotmail Random Engine
 
 Many moons ago, in 2007, in the dusty wild west of promotional email marketing, the hotmail random engine was born.
 
